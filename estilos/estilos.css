@@ -1,0 +1,46 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Dangrek', cursive;
+}
+
+.container-fluid{
+    background-color: #bfd8f8;
+}
+.simulador{
+    margin: 10px;
+}
+h1{
+    font-size: 100px;
+}
+
+.seccion{
+    margin-top: 60px;
+    background-image: linear-gradient(to right, #98c6d1, #c0d2d5,#e7e0d5 );
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    -webkit-text-stroke: 1px black;
+   
+   }
+.copy{
+    text-align: center;
+    color:black;
+    font-size: 20px;
+}
+.redes{
+    font-size: 40px;
+    color: beige;
+}
+footer{
+    background-color: aquamarine;
+}
+input{
+    color: rgb(172, 162, 162);
+    border-radius: 20px;
+    font-size: 15px;
+}
+.navbar-brand{
+    font-size: 40px;
+}
