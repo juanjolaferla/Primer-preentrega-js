@@ -1,17 +1,4 @@
-
-/*let porcentaje = parseFloat (prompt("¿Que porcentaje de descuente quieres aplicar?"));
-console.log( "--> Porcentaje ingresado", porcentaje);
-let precio = parseFloat (prompt("¿Cuanto Cuesta tu producto?"));
-let descuento = 0;
-let total = precio;
-if (porcentaje > 0) {
-descuento = precio * (porcentaje/100)
-}
-total = precio - descuento;0
-console.log("--> El valor final del producto es de " + total);*/
-
-
-/*let numero = parseFloat (prompt("Ingresa el monto deseado hasta $500000"));
+let numero = parseFloat (prompt("Ingresa el monto deseado hasta $500000"));
 let cuotas = parseInt (prompt ("Cantidad de cuotas"));
 let porcentaje ;
 
@@ -41,5 +28,5 @@ totalCuota= total / cuotas;
  
 
 console.log("--> El valor final del credito " + total);
-console.log("--> El valor final de cuota " + totalCuota);*/
+console.log("--> El valor final de cuota " + totalCuota);
 
